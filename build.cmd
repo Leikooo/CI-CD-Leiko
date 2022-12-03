@@ -1,1 +1,1 @@
-pyinstaller --onefile main.py
+pyinstaller --distpath C:\Users\solom\Desktop\Unittest_py\dist --onefile main.py

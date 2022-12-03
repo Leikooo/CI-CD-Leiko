@@ -48,8 +48,8 @@
    'D:\\python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('main', 'C:\\Users\\solom\\Desktop\\Unittest_py\\main.py', 'PYSOURCE'),
-  ('python310.dll', 'D:\\python\\python310.dll', 'BINARY'),
   ('VCRUNTIME140.dll', 'D:\\python\\VCRUNTIME140.dll', 'BINARY'),
+  ('python310.dll', 'D:\\python\\python310.dll', 'BINARY'),
   ('_multiprocessing', 'D:\\python\\DLLs\\_multiprocessing.pyd', 'EXTENSION'),
   ('_decimal', 'D:\\python\\DLLs\\_decimal.pyd', 'EXTENSION'),
   ('_hashlib', 'D:\\python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
@@ -73,7 +73,7 @@
  [],
  False,
  False,
- 1670098608,
+ 1670102298,
  [('run.exe',
    'D:\\python\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
